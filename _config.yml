@@ -1,6 +1,6 @@
 name: sicode
 favicon: null
-layout_spectrum: 0.5641194393392652
+layout_spectrum: 0.75568
 typography_spectrum: 0.24048260180279613
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.9828348900191486
+  brandStrength: 0.5
   lightness: 0.5606857002712786
   saturation: 0.40660031978040934
   rhythmicContrast: 0.894316921941936
