@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Har du noen spørsmål? Ta kontakt på support@sicode.no
-datePublished: '2016-05-08T08:38:46.728Z'
-dateModified: '2016-05-08T08:27:11.504Z'
+datePublished: '2016-05-08T09:05:07.232Z'
+dateModified: '2016-05-08T09:05:03.812Z'
 title: Kontakt oss
 author: []
+sourcePath: _posts/2016-05-08-kontakt-oss.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-08-kontakt-oss.md
 url: kontakt-oss/index.html
 _type: Article
 
