@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Morbi sed dictum neque, mattis aliquam sapien. Aliquam consequat lorem ac dui lacinia, dapibus rutrum nunc venenatis. Duis tincidunt et nisi vulputate accumsan. Quisque semper dui neque, eget rhoncus tortor placerat et. Sed imperdiet luctus arcu, ut maximus nulla tempor tristique. Etiam purus neque, iaculis in urna sit amet, pellentesque ullamcorper elit.'
-datePublished: '2016-05-23T17:03:32.081Z'
-dateModified: '2016-05-23T17:03:02.058Z'
+datePublished: '2016-05-23T17:07:05.305Z'
+dateModified: '2016-05-23T17:06:55.807Z'
 title: Prosjekter
 author: []
+sourcePath: _posts/2016-05-23-prosjekter.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-23-prosjekter.md
 url: prosjekter/index.html
 _type: Article
 
